@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @dennisnderitu254
-- 👀 I’m interested in Software Engineering, Programming, Problem Solving
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on Web Projects, Software Engineering Projects, COding Challenges
-- 📫 How to reach me -> Email me, Twitter DM's
+[![David Kariuki](https://img.shields.io/badge/DN-DENNIS%20NDERITU-blue)]
 
-<!---
-dennisnderitu254/dennisnderitu254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+I am Nderitu, a Software Engineer. I contribute to open source.<br>
+
+<br><br>1.  🧑 **PERSONA**<br>
+
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
+
+
+<br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
+              
+     i. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.               
+     ii. Backend Development               
+    iii. Shell Scripting: - Bash programming.    
+     iv. Databases: - MySQL.
+ 
