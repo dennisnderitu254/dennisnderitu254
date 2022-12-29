@@ -15,7 +15,8 @@
 <h4>
 	<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.microsoft.com%2Fon-the-issues%2F2019%2F09%2F04%2Fhollywood-hacking-movies%2F&psig=AOvVaw0RLzRFRw2uIsdvE5f6eW3s&ust=1672386859702000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCGz9esnvwCFQAAAAAdAAAAABAG" width="500" height="281" />
 <ul align="left">
-	<li> Currently learning Low-level programming (C), Algorithms(C and Python), Higher-level programming(Python), System engineering, DevOps </li><br/><br/>
+	<li> Currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
+     <li>4 Months Deep in the ALX Software Engineering Bootcamp </li><br/><br/>
 </ul>
 </h4>
 
