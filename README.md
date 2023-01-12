@@ -7,9 +7,9 @@
 <!-- <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=RaymanMoha&label=Profile%20views&color=0e75b6&style=flat" alt="Dennisnderitu254" /> </p> -->
 
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisnderitu254&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dennisnderitu254" width=360 height=180/>
+<!-- <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisnderitu254&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dennisnderitu254" width=360 height=180/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dennisnderitu254&show_icons=true&theme=radical" alt="Dennisnderitu254" width=420 height=180/>
-</p>
+</p> -->
 
 </br>
 <h4>
