@@ -27,7 +27,7 @@
 
 <br/>
 
-<h3 align="center"><br>Active Repositories </h3>
+### Active Repositories
 
 
 | Repository | Description |
@@ -49,7 +49,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<h3 align="center"><br>Major projects worked on, in school in order:</h3>
+<h3 align="center"><br>Major projects worked on in order:</h3>
 
 | Project name | Description |
 | --- | --- |
