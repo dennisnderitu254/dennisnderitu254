@@ -27,7 +27,7 @@
 
 <br/>
 
-<h3 align="center">Active Repositories</h3>
+### Active Repositories
 
 | Repository | Description |
 | --- | --- |
