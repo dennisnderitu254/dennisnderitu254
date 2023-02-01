@@ -3,7 +3,7 @@
 
 <h1 align="center"> WELCOME TO MY WORLD! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:dknderitu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='./_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
+<a href='https://drive.google.com/file/d/1-94AIjLVIq7-38BUzhnws3xQMQGqQ0tB/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <!-- <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=RaymanMoha&label=Profile%20views&color=0e75b6&style=flat" alt="Dennisnderitu254" /> </p> -->
 
 
