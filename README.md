@@ -56,10 +56,9 @@
 |[Printf](https://github.com/codebyrugi/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/dennisnderitu254/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/dennisnderitu254/monty) | Stacks, Queues - LIFO, FIFO |
-|[AirBnB Clone](https://github.com/dennisnderitu254/AirBnB_clone) | AirBnB Clone Command Line Interface |
 |[Sorting Algorithms](https://github.com/dennisnderitu254/sorting_algorithms) | Sorting Algorithms Implementation in C|
 |[RSA-Factoring-Challenge](https://github.com/dennisnderitu254/RSA-Factoring-Challenge) |RSA Factoring Challenge|
-
+|[AirBnB Clone](https://github.com/dennisnderitu254/AirBnB_clone) | AirBnB Clone Command Line Interface |
 <br />
 
 
