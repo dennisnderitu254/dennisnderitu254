@@ -63,6 +63,43 @@
  <a href="https://www.twitter.com/devnderitu/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 
 <!-- <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2> -->
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="certificates/cbasic.png" alt="certificates/cbasic.png" >
+  <img src="certificates/cintermediate.png" alt="certificates/cintermediate.png" >
+  <img src="certificates/cadvanced.png" alt="certificates/cadvanced.png">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="certificates/cppbasic.png" alt="certificates/cppbasic.png" >
+  <img src="certificates/cppintermediate.png" alt="certificates/cppintermediate.png" >
+  <img src="certificates/cppadvanced.png" alt="certificates/cppadvanced.png">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="certificates/problemsolvingbasic.png" alt="certificates/problemsolvingbasic.png" >
+  <img src="certificates/problemsolvingintermediate.png" alt="certificates/problemsolvingintermediate.png" >
+  <img src="certificates/problemsolvingadvanced.png" alt="certificates/problemsolvingadvanced.png">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="certificates/pythonbasic.png" alt="certificates/pythonbasic.png" >
+  <img src="certificates/pythonintermediate.png" alt="certificates/pythonintermediate.png" >
+  <img src="certificates/pythonadvanced.png" alt="certificates/pythonadvanced.png">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="certificates/sqlbasic.png" alt="certificates/sqlbasic.png" >
+  <img src="certificates/sqlintermediate.png" alt="certificates/sqlintermediate.png" >
+  <img src="certificates/sqladvanced.png" alt="certificates/sqladvanced.png">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="certificates/css.png" alt="certificates/pythonbasic.png" >
+  <img src="certificates/javabasic.png" alt="certificates/javabasic.png" >
+  <img src="certificates/javaintermediate.png" alt="certificates/javaintermediate.png">
+</div>
+
 </p>
 
 ---
