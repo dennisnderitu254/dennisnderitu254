@@ -63,7 +63,7 @@
  <a href="https://www.twitter.com/devnderitu/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 
 <!-- <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2> -->
-
+<!--
 <div style="display: flex; justify-content: space-between;">
   <img src="certificates/cbasic.png" alt="certificates/cbasic.png" >
   <img src="certificates/cintermediate.png" alt="certificates/cintermediate.png" >
@@ -98,7 +98,7 @@
   <img src="certificates/css.png" alt="certificates/pythonbasic.png" >
   <img src="certificates/javabasic.png" alt="certificates/javabasic.png" >
   <img src="certificates/javaintermediate.png" alt="certificates/javaintermediate.png">
-</div>
+</div> -->
 
 </p>
 
