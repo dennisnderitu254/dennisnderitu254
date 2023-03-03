@@ -53,6 +53,8 @@
 |[Sorting Algorithms](https://github.com/dennisnderitu254/sorting_algorithms) | Sorting Algorithms Implementation in C|
 |[RSA-Factoring-Challenge](https://github.com/dennisnderitu254/RSA-Factoring-Challenge) |RSA Factoring Challenge|
 |[AirBnB Clone](https://github.com/dennisnderitu254/AirBnB_clone) | AirBnB Clone Command Line Interface |
+|[Binary Trees](https://github.com/dennisnderitu254/binary_trees) | Binary Trees |
+
 <br />
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
