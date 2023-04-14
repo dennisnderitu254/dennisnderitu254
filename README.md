@@ -54,6 +54,7 @@
 |[RSA-Factoring-Challenge](https://github.com/dennisnderitu254/RSA-Factoring-Challenge) |RSA Factoring Challenge|
 |[AirBnB Clone](https://github.com/dennisnderitu254/AirBnB_clone) | AirBnB Clone Command Line Interface |
 |[Binary Trees](https://github.com/dennisnderitu254/binary_trees) | Binary Trees |
+|[Search Algorithms](https://github.com/dennisnderitu254/alx-low_level_programming/tree/master/0x1E-search_algorithms) | Search Algorithms |
 
 <br />
 
