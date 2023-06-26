@@ -16,7 +16,7 @@
  <img style="object-fit: cover;" align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b0lxjmphcw78q2hlqppk70ur2n1g5jbcy9p1uopn&rid=giphy.gif&ct=g" width="500" height="281" />
 <ul align="left">
  <li> Currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
-     <li>6 Months Deep in the ALX Software Engineering Bootcamp </li><br/><br/>
+     <li>9 Months Deep in the ALX Software Engineering Bootcamp </li><br/><br/>
 </ul>
 </h4>
 
