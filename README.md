@@ -19,12 +19,6 @@
 </ul>
 </h4>
 
-<br>
-
-<h3 align="center"> </h3>
-
-<br/>
-
 ### Active Repositories
 
 | Repository | Description |
