@@ -13,12 +13,13 @@
 
 </br>
 <h4>
- <img style="object-fit: cover;" align="right" src="ALX_SE" width="500" height="281" />
 <ul align="left">
      <li>Completed The ALX Software Engineering Bootcamp </li><br/><br/>
 </ul>
 
 </h4>
+
+![alx](ALX_SE.jpg)
 
 ### Active Repositories
 
