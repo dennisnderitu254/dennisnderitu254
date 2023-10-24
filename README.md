@@ -19,7 +19,7 @@
 
 </h4>
 
-![alx](ALX_SE.jpg)
+![alx](ALX-Certificate)
 
 ### Active Repositories
 
