@@ -1,5 +1,9 @@
 <h1 align='center'>"Dev Nderitu Here"</h1>
-<p align="center">I enjoy programming and web development.Python Developer. Problem Solver</p>
+<p align="center">I am a Highly skilled and motivated software engineer with 2 years of experience in
+designing and developing scalable software applications. Proficient in multiple programming
+languages and frameworks, with a strong focus on building efficient and user-friendly
+solutions. I'm Dedicated to staying updated with emerging technologies and best practices in
+software development.</p>
 
 <h1 align="center"> WELCOME TO MY WORLD! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:dknderitu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
@@ -15,9 +19,9 @@
 
 </br>
 <h4>
-<ul align="left">
-     <li>Completed The ALX Software Engineering Bootcamp </li><br/><br/>
-</ul>
+
+
+<p align="center">Completed The ALX Software Engineering Bootcamp</p>
 
 </h4>
 
