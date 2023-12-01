@@ -25,7 +25,11 @@ software development.</p>
 
 </h4>
 
+![alxcert](NderituALXcertificate.png)
 ![alx](ALX-Certificate.png)
+
+<img src="WalmartCertificate.png" width="200" height="200">
+
 
 ### Active Repositories
 
