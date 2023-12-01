@@ -9,7 +9,7 @@ software development.</p>
 <h3 align="center"><a href="mailto:dknderitu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='https://drive.google.com/file/d/1yqAvZYJb4L1qimAhC6wrJjwroqBdr3h_/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <a href='https://drive.google.com/file/d/1zf-AVS2zpT6f-CSi56Ox36dfkMlLUNXy/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Transcript-green?style=for-the-badge"></a>
-<a href='https://drive.google.com/file/d/1pP-ONBojbsGt5TGrX6QpdNJRbXaZxRE9/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Certificate-yellow?style=for-the-badge"></a>
+<a href='https://drive.google.com/file/d/1JgHbvGgGMoCwTHKzSPaSp6XX96YavRvd/view?usp=drive_link'><img src="https://img.shields.io/badge/ALX Certificate-yellow?style=for-the-badge"></a>
 
 <!-- <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=RaymanMoha&label=Profile%20views&color=0e75b6&style=flat" alt="Dennisnderitu254" /> </p> -->
 
