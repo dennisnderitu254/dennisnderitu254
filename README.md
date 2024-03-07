@@ -15,7 +15,7 @@ software development.</p>
 
 <h1 align="center"> WELCOME TO MY WORLD! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:dknderitu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='https://drive.google.com/file/d/1yqAvZYJb4L1qimAhC6wrJjwroqBdr3h_/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
+<a href='https://drive.google.com/file/d/1u1cSeFhyZxy4XQXOH7tSC7qvmquXWnIy/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <a href='https://drive.google.com/file/d/1zf-AVS2zpT6f-CSi56Ox36dfkMlLUNXy/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Transcript-green?style=for-the-badge"></a>
 <a href='https://drive.google.com/file/d/1JgHbvGgGMoCwTHKzSPaSp6XX96YavRvd/view?usp=drive_link'><img src="https://img.shields.io/badge/ALX Certificate-yellow?style=for-the-badge"></a>
 
