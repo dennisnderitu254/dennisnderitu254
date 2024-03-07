@@ -1,5 +1,13 @@
 <h1 align='center'>"Dev Nderitu Here"</h1>
-<p align="center">I am a Highly skilled and motivated software engineer with 2 years of experience in
+<p align="center">
+Dynamic and motivated software engineer with a solid background in data structures, algorithms, and
+web development technologies, including Python and JavaScript (ES6). Demonstrated expertise lies
+in architecting efficient and robust backend components for web applications. Proficient in diverse
+technologies, with notable experience in developing JavaScript algorithms for web scraping from the
+Star Wars API, Implementing Python algorithms for object-relational mapping and building
+JavaScript applications such as a to-do list and a queuing system using Redis.
+
+I am a Highly skilled and motivated software engineer with 4 years of experience in
 designing and developing scalable software applications. Proficient in multiple programming
 languages and frameworks, with a strong focus on building efficient and user-friendly
 solutions. I'm Dedicated to staying updated with emerging technologies and best practices in
@@ -21,7 +29,7 @@ software development.</p>
 <h4>
 
 
-<p align="center">Completed The ALX Software Engineering Bootcamp</p>
+<p align="center">Completed The ALX Software Engineering Course</p>
 
 </h4>
 
@@ -62,7 +70,7 @@ software development.</p>
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
- <a href="https://github.com/dennisnderitu254"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
+ <a href="https://github.com/dennisnderitu254"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
  <a href="https://www.linkedin.com/in/dennis-kinyanjui-a35a9510b/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
  <a href="https://www.instagram.com/dennisnnderitu_/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
  <a href="https://www.twitter.com/devnderitu/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
