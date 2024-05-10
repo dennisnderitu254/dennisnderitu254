@@ -46,32 +46,6 @@ software development.</p>
 </h4>
 
 
-```
-int check_cycle(listint_t *list)
-{
-	listint_t *head;
-	listint_t *tail;
-
-	if (list == NULL)
-		return (0);
-
-	head = list;
-	tail = list;
-
-	while (tail != NULL && tail->next != NULL)
-	{
-		head = head->next;
-		tail = tail->next->next;
-
-		if (head == tail)
-			return (1);
-
-	}
-	return (0);
-}
-
-```
-
 | Repository | Description |
 | --- | --- |
 | [AlX-low_level_programming](https://github.com/dennisnderitu254/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
